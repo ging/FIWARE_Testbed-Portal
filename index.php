@@ -56,7 +56,7 @@
           </div>
           <div class="tab-pane" id="store">
             <div class="video span6">
-              <iframe src="//www.youtube.com/embed/-yainBAU32E" frameborder="0" allowfullscreen></iframe>
+              <iframe src="//www.youtube.com/embed/PR2gnSJLKvc" frameborder="0" allowfullscreen></iframe>
             </div>
             <ul class="description span5 hidden-phone hidden-tablet">
               <div class="content">
