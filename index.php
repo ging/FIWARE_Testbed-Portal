@@ -108,7 +108,7 @@
             </a>
           </div>
           <div class="help-box span3">
-            <a href="http://catalogue.fi-ware.org/enablers" target="_blank">
+            <a href="http://catalogue.fiware.org/enablers" target="_blank">
               <img src="wp-content/themes/wordpress-bootstrap/images/ges.png">
               <div>
                 <h4>Our GEs</h4>
@@ -126,10 +126,10 @@
             </a>
           </div>
           <div class="help-box span3">
-            <a href="http://edu.fi-ware.eu/" target="_blank">
+            <a href="http://edu.fiware.org/" target="_blank">
               <img src="wp-content/themes/wordpress-bootstrap/images/more-info.png">
               <div>
-                <h4>eLearning</h4>
+                <h4>FIWARE Academy</h4>
                 Train yourself.
               </div>
             </a>
